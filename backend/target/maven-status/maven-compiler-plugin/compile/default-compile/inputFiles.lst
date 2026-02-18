@@ -1,0 +1,6 @@
+/home/kristoffer/Projects/full-stack/ov4/backend/src/main/java/ov4/backend/BackendApplication.java
+/home/kristoffer/Projects/full-stack/ov4/backend/src/main/java/ov4/backend/config/CorsConfig.java
+/home/kristoffer/Projects/full-stack/ov4/backend/src/main/java/ov4/backend/controllers/ComputeController.java
+/home/kristoffer/Projects/full-stack/ov4/backend/src/main/java/ov4/backend/models/ComputeResult.java
+/home/kristoffer/Projects/full-stack/ov4/backend/src/main/java/ov4/backend/models/equation.java
+/home/kristoffer/Projects/full-stack/ov4/backend/src/main/java/ov4/backend/service/ComputeService.java

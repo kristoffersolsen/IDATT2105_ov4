@@ -1,0 +1,6 @@
+ov4/backend/BackendApplication.class
+ov4/backend/config/CorsConfig.class
+ov4/backend/service/ComputeService.class
+ov4/backend/controllers/ComputeController.class
+ov4/backend/models/equation.class
+ov4/backend/models/ComputeResult.class
